@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<File2Json>
+  <App>
+    <source_directory>C:\temp\file2json\source\</source_directory>
+    <archive_directory>C:\temp\file2json\archive/</archive_directory>
+    <error_directory>C:\temp\file2json\error\</error_directory>
+    <logpath>C:\temp\file2json\log\myfile_log.xml</logpath>
+    <complete_directory>C:\temp\file2json\complete</complete_directory>
+    <format>json</format>
+  </App>
+</File2Json>
+
+
