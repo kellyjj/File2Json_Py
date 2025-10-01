@@ -13,7 +13,7 @@ Prerprerequisites:
         3)  activate enviroment.
                 a) windows:  source ./dirname/Scripts/activate
                 b) linux:  source dirname/bin/activate
-        4)  pip3 install -r requirements.txt   -- this will install  into your virtual directory.  
+        4)  pip3 install -U -r requirements.txt   -- this will install  into your virtual directory.  
 
     
 Configuration Settings:
